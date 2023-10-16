@@ -1,3 +1,5 @@
+console.log("please work");
+
 let count = 0;
 let myExercises = [];
 
@@ -168,5 +170,3 @@ function handleExercisePin(index) {
 
     handleOnLoad();
 }
-
-module.exports = myExercises;
