@@ -1,15 +1,14 @@
 {
   "name": "practicefolder",
   "version": "1.0.0",
-  "description": "Practice",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nick Reyes",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "mysql2": "^3.6.2"
   }
 }

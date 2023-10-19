@@ -1,0 +1,5 @@
+/Users/nickreyes/Desktop/practicefolder/obj/Debug/net7.0/practicefolder.csproj.AssemblyReference.cache
+/Users/nickreyes/Desktop/practicefolder/obj/Debug/net7.0/practicefolder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickreyes/Desktop/practicefolder/obj/Debug/net7.0/practicefolder.AssemblyInfoInputs.cache
+/Users/nickreyes/Desktop/practicefolder/obj/Debug/net7.0/practicefolder.AssemblyInfo.cs
+/Users/nickreyes/Desktop/practicefolder/obj/Debug/net7.0/practicefolder.csproj.CoreCompileInputs.cache
